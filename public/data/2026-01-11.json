@@ -1,0 +1,103 @@
+{
+  "date": "2026-01-11",
+  "url": "https://www.warhammer-community.com/en-gb/articles/dcuclxww/sunday-preview-angron-transfigured-stares-down-the-new-skitarii/",
+  "items": [
+    {
+      "name": "Angron Transfigured",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Lotara Sarrin, Mistress of the Conqueror",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Skitarii Battle Group",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Journal Tactica: Skitarii: The Steel Hand of Mars",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "The Path of Cirith Ungol: Shelob & Gollum",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Middle-earth Strategy Battle Game Journal: The Treachery of Gollum",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Foot Knights of Dol Amroth",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith"
+    },
+    {
+      "name": "Cirith Ungol Dice Set",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Accessory",
+      "faction": "Mordor"
+    },
+    {
+      "name": "Chaos Chariot",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos",
+      "madeToOrder": true
+    },
+    {
+      "name": "Chaos Lord on Chaos Steed",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos",
+      "madeToOrder": true
+    },
+    {
+      "name": "Chaos Sorcerers",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos",
+      "madeToOrder": true
+    },
+    {
+      "name": "Chaos Sorcerer with Lore Familiar",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos",
+      "madeToOrder": true
+    },
+    {
+      "name": "Chaos Warhounds",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Hunter Strikes",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "T’au Empire",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Steel Rook",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar",
+      "madeToOrder": true
+    }
+  ]
+}

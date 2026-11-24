@@ -1,0 +1,117 @@
+{
+  "date": "2025-06-08",
+  "url": "https://www.warhammer-community.com/en-gb/articles/xnsljfca/sunday-preview-tyranid-raveners-burrow-into-kill-team/",
+  "items": [
+    {
+      "name": "Kill Team: Typhon",
+      "system": "Kill Team",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Kill Team: Sanctifiers",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Adeptus Ministorum"
+    },
+    {
+      "name": "Sanctifiers Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Adeptus Ministorum"
+    },
+    {
+      "name": "Kill Team: Goremongers",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Goremongers Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Tarantula Sentry Guns",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Tarantula Missile Battery",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Rapier Quad Heavy Bolters and Graviton Cannon Battery",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Rapier Laser Destroyer and Quad Launcher Battery",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Wargor Battle Standard Bearer",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Beastmen Brayherds",
+      "madeToOrder": true
+    },
+    {
+      "name": "Bray-Shamans",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Beastmen Brayherds",
+      "madeToOrder": true
+    },
+    {
+      "name": "Beastmen Chieftains",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Beastmen Brayherds",
+      "madeToOrder": true
+    },
+    {
+      "name": "Carcharodons: Void Exile",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Carcharodons"
+    },
+    {
+      "name": "Carcharodons: Void Exile (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Carcharodons"
+    },
+    {
+      "name": "Grotsnik: Da Mad Dok",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Orks"
+    },
+    {
+      "name": "Dominion Genesis",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adeptus Mechanicus"
+    },
+    {
+      "name": "Leontus: Lord Solar (German Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "First Founding",
+      "system": "Warhammer 40,000",
+      "type": "Other",
+      "faction": "Space Marines"
+    }
+  ]
+}

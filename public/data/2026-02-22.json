@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-22",
+  "url": "https://www.warhammer-community.com/en-gb/articles/vxgu8rf9/sunday-preview-master-the-winds-of-magic-and-unleash-the-might-of-the-machine-god/",
+  "items": [
+    {
+      "name": "Defenders of the Great Bastion Army Reinforcement Set",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Arcane Journal: The Breaching of the Great Bastion",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Myrmidon Destructor Host",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Skitarii Battle-Pilgrym Marshal",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Skitarii Battle-Pilgrym Corpus",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Vultarax Stratos-Automata",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Kaptin Badrukk",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks",
+      "madeToOrder": true
+    },
+    {
+      "name": "Ammo Runts",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks",
+      "madeToOrder": true
+    }
+  ]
+}

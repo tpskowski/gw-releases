@@ -1,0 +1,145 @@
+{
+  "date": "2025-06-22",
+  "url": "https://www.warhammer-community.com/en-gb/articles/eloq521l/sunday-preview-howl-with-the-wolves-of-fenris/",
+  "items": [
+    {
+      "name": "Codex Supplement: Space Wolves",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Codex Supplement: Space Wolves (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Logan Grimnar",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Njal Stormcaller",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Arjac Rockfist",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Wolf Priest",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Wolf Guard Battle Leader",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Wolf Guard Terminators",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Wolf Guard Headtakers",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Blood Claws",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Grey Hunters",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Space Wolves Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Space Wolves Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Drop Pods",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Killzone Upgrade: Shrine Statue (Made to Order)",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Dawn of Fire: The Silent King",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Dawn of Fire: The Silent King (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Paragon of Faith and Other Stories",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "Ravenor: The Omnibus",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Inquisition"
+    },
+    {
+      "name": "Above and Beyond",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Daemonhammer",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Inquisition"
+    },
+    {
+      "name": "Oaths of Damnation",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Exorcists"
+    },
+    {
+      "name": "Everchosen",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Warriors of Chaos"
+    }
+  ]
+}

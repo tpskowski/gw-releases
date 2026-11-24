@@ -1,0 +1,198 @@
+{
+  "date": "2025-11-16",
+  "url": "https://www.warhammer-community.com/en-gb/articles/amxn8f1q/sunday-preview-get-into-the-melee-with-assault-terminators-and-chaos-marauders/",
+  "items": [
+    {
+      "name": "Ferren Areios",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Ancient in Terminator Armour",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Terminator Assault Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Suboden Khan",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "White Scars"
+    },
+    {
+      "name": "Chaos Marauders Army Reinforcement Set",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Arcane Journal: The Razing of Westerland",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Map of the Old World – Imperial Calendar 2278",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Classic Empire Captains",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "State Troops with Halberds",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "State Troops with Halberds Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "State Troops Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "Empire Handgunners",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "Empire Archers",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man",
+      "madeToOrder": true
+    },
+    {
+      "name": "Arwen and Frodo on Asfaloth",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rivendell",
+      "madeToOrder": true
+    },
+    {
+      "name": "Gandalf the Grey at Rivendell",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rivendell",
+      "madeToOrder": true
+    },
+    {
+      "name": "Samwise Gamgee and Bill the Pony",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "The Fellowship",
+      "madeToOrder": true
+    },
+    {
+      "name": "Twilight Ringwraiths",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Mordor",
+      "madeToOrder": true
+    },
+    {
+      "name": "Morannon Orc Warriors",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Mordor",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Lord of the Rings Casualties",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Ashes of the Imperium",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Ashes of the Imperium (Premium Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Ashes of the Imperium (French and German language editions)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Master of Rites",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Master of Rites (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Master of Rites (French and German Language)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Hell’s Last",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Steel Tread",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Horus Heresy: Collection XVIII (French Language)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Eidolon: The Auric Hammer (German Language Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Emperor’s Children"
+    },
+    {
+      "name": "The Fall of Cadia (German Language Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

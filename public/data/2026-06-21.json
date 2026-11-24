@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-21",
+  "url": "https://www.warhammer-community.com/en-gb/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium/",
+  "items": [
+    {
+      "name": "Ciaphas Cain",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Battleforce: Tyranid Swarm",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Tyranids"
+    },
+    {
+      "name": "Battleforce: Chaos Space Marines Warband",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Chaos Space Marines"
+    },
+    {
+      "name": "Battleforce: Necron Host",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Battleforce: Astra Militarum Platoon",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Centaur RSV",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Hippogriff AFV",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Maximus Battle Group",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Whirlwind Missile Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Journal Tactica: Zone Mortalis",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "For the Emperor (Illustrated and Annotated Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Valhallan Regimental Banner",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Sabbat Worlds Crusade",
+      "system": "Warhammer 40,000",
+      "type": "Other",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Rynn’s World (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Crimson Fists"
+    },
+    {
+      "name": "Vagabond Squadron",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Krakenblood",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Starseer’s Ruin",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Seraphon"
+    },
+    {
+      "name": "Vainglorious (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "HIVE Part 1 (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Defender of the Imperium (German Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

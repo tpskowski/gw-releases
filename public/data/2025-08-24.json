@@ -1,0 +1,127 @@
+{
+  "date": "2025-08-24",
+  "url": "https://www.warhammer-community.com/en-gb/articles/g9yodfir/sunday-preview-dare-you-enter-the-tomb-world/",
+  "items": [
+    {
+      "name": "Kill Team: Tomb World",
+      "system": "Kill Team",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Kill Team: Battleclade",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Adeptus Mechanicus"
+    },
+    {
+      "name": "Battleclade Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Adeptus Mechanicus"
+    },
+    {
+      "name": "Kill Team: Raveners",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Tyranids"
+    },
+    {
+      "name": "Raveners Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Tyranids"
+    },
+    {
+      "name": "Killzone Upgrade: Tyranid Infestation",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Tyranids"
+    },
+    {
+      "name": "Sisters Novitiate Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "Ork Kommandos",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Eldrad Ulthran",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari",
+      "madeToOrder": true
+    },
+    {
+      "name": "Farseer and Warlocks",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari",
+      "madeToOrder": true
+    },
+    {
+      "name": "Court of the Young King",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Aeldari",
+      "madeToOrder": true
+    },
+    {
+      "name": "Aeldari Webway Gate",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Aeldari",
+      "madeToOrder": true
+    },
+    {
+      "name": "Noise Marine",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Emperor’s Children",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Emperor’s Children Heroes",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Emperor’s Children",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Noise Marines",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Emperor’s Children",
+      "madeToOrder": true
+    },
+    {
+      "name": "Assassinorum: Kingmaker (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Agents"
+    },
+    {
+      "name": "Lord of Chaos",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "The Legend of Sigmar",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Final Deployment",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

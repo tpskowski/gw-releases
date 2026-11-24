@@ -1,0 +1,90 @@
+{
+  "date": "2026-03-15",
+  "url": "https://www.warhammer-community.com/en-gb/articles/jl0oyszp/sunday-preview-the-bigger-brighter-legio-custodes/",
+  "items": [
+    {
+      "name": "Legio Custodes Battle Group",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Liber Custodes: The Forces of the Emperor Army Book",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Glaive Super-heavy Special Weapons Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Journal Tactica – Mailed Fist: Legiones Astartes Super-heavy Tanks",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Black Orc Bigboss",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Black Orc Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Black Orcs",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Orc Boyz Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Orc Boyz",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Goblin Rock Lobber",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Warhammer Colour Tools Set",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer Dice Set",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer Colour Painting Handle",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2025-07-27",
+  "url": "https://www.warhammer-community.com/en-gb/articles/hju6d4tm/sunday-preview-reinforce-your-horus-heresy-army-with-standalone-saturnine-kits/",
+  "items": [
+    {
+      "name": "Saturnine Praetor",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Saturnine Terminator Squad",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Saturnine Siege Dreadnought – Chiron Configuration",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Saturnine Siege Dreadnought – Ophion Configuration",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Saturnine Siege Dreadnought Chiron Weapons",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Saturnine Siege Dreadnought Ophion Weapons",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Centurion with Power Maul",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "MkII Veteran Squad with Disintegrators",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Disintegrator Weapons Upgrade Set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Araknae Quad Accelerator Platform",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Legiones Astartes Drop Pod",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Age of Darkness Markers and Tokens",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Age of Darkness Dice Set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "White Dwarf 515",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "The End and the Death: Volume III",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Here Is Where It Will End Map",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Kingsblade",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Knights"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "2026-02-08",
+  "url": "https://www.warhammer-community.com/en-gb/articles/lke65sad/sunday-preview-huron-blackheart-sets-sail-from-the-maelstrom/",
+  "items": [
+    {
+      "name": "The Maelstrom: Lair of the Tyrant",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "The Maelstrom: Lair of the Tyrant (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Huron Blackheart and the Masters of the Maelstrom",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Red Corsairs"
+    },
+    {
+      "name": "Battleforce: Lords of the Maelstrom",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Red Corsairs"
+    },
+    {
+      "name": "Battleforce: Eldritch Raiders",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "The Maelstrom Battalion: Drukhari",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "The Maelstrom Battalion: Leagues of Votann",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Map of the Imperium Knitted Blanket",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Ghost Legion",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Alpha Legion"
+    },
+    {
+      "name": "Ghost Legion (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Alpha Legion"
+    },
+    {
+      "name": "Death Rider",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Huron Blackheart: Master of the Maelstrom",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Red Corsairs"
+    },
+    {
+      "name": "The Twice-dead King Omnibus (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Voidscarred (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Aeldari"
+    }
+  ]
+}

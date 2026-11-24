@@ -1,0 +1,946 @@
+{
+  "date": "2026-10-04",
+  "url": "https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro/",
+  "items": [
+    {
+      "name": "Tone Pro: Carmine Blades 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carmine Blades 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carmine Blades 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carmine Blades 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carmine Blades 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Bloodtoof Red 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Bloodtoof Red 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Bloodtoof Red 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Bloodtoof Red 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Bloodtoof Red 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Chotec Orange 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Chotec Orange 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Chotec Orange 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Chotec Orange 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Chotec Orange 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ta’unar Ochre 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ta’unar Ochre 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ta’unar Ochre 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ta’unar Ochre 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ta’unar Ochre 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Khemri Sands 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Khemri Sands 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Khemri Sands 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Khemri Sands 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Khemri Sands 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hawkshroud Yellow 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hawkshroud Yellow 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hawkshroud Yellow 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hawkshroud Yellow 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hawkshroud Yellow 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Megaboss Yellow 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Megaboss Yellow 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Megaboss Yellow 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Megaboss Yellow 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Megaboss Yellow 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Plague Toad Venom 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Plague Toad Venom 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Plague Toad Venom 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Plague Toad Venom 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Plague Toad Venom 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kruleboyz Green 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kruleboyz Green 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kruleboyz Green 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kruleboyz Green 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kruleboyz Green 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Lustria Green 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Lustria Green 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Lustria Green 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Lustria Green 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Lustria Green 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kasrkin Green 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kasrkin Green 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kasrkin Green 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kasrkin Green 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Kasrkin Green 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hierotek Green 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hierotek Green 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hierotek Green 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hierotek Green 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hierotek Green 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Green Morkshroom 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Green Morkshroom 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Green Morkshroom 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Green Morkshroom 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Green Morkshroom 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Seraphon Blue 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Seraphon Blue 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Seraphon Blue 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Seraphon Blue 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Seraphon Blue 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Craventhrone Cloak 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Craventhrone Cloak 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Craventhrone Cloak 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Craventhrone Cloak 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Craventhrone Cloak 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Stormwolf Blue 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Stormwolf Blue 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Stormwolf Blue 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Stormwolf Blue 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Stormwolf Blue 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Scinari Blue 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Scinari Blue 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Scinari Blue 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Scinari Blue 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Scinari Blue 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blue Gorkshroom 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blue Gorkshroom 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blue Gorkshroom 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blue Gorkshroom 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blue Gorkshroom 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ultramar Blue 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ultramar Blue 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ultramar Blue 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ultramar Blue 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Ultramar Blue 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Shalaxi Violet 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Shalaxi Violet 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Shalaxi Violet 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Shalaxi Violet 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Shalaxi Violet 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Enrapturess Dusk 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Enrapturess Dusk 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Enrapturess Dusk 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Enrapturess Dusk 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Enrapturess Dusk 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hive Fleet Purple 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hive Fleet Purple 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hive Fleet Purple 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hive Fleet Purple 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Hive Fleet Purple 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Magnus the Red 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Magnus the Red 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Magnus the Red 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Magnus the Red 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Magnus the Red 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Eye of Terror 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Eye of Terror 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Eye of Terror 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Eye of Terror 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Eye of Terror 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carthalos Skin 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carthalos Skin 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carthalos Skin 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carthalos Skin 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Carthalos Skin 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Celestine Skin 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Celestine Skin 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Celestine Skin 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Celestine Skin 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Celestine Skin 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Gnarlwood 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Gnarlwood 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Gnarlwood 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Gnarlwood 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Gnarlwood 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Necrolith Bone 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Necrolith Bone 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Necrolith Bone 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Necrolith Bone 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Necrolith Bone 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Dataslate Grey 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Dataslate Grey 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Dataslate Grey 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Dataslate Grey 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Dataslate Grey 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blackstone Void 1",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blackstone Void 2",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blackstone Void 3",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blackstone Void 4",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro: Blackstone Void 5",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro Shading Medium",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tone Pro Blending Medium",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer Pro Tone Extra Small Drybrush",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various",
+      "supplementalUrl": "https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here/"
+    },
+    {
+      "name": "Warhammer Pro Tone Small Drybrush",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various",
+      "supplementalUrl": "https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here/"
+    },
+    {
+      "name": "Warhammer Pro Tone Medium Drybrush",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various",
+      "supplementalUrl": "https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here/"
+    },
+    {
+      "name": "Warhammer Pro Tone Large Drybrush",
+      "system": "Accessories",
+      "type": "Accessory",
+      "faction": "Various",
+      "supplementalUrl": "https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here/"
+    }
+  ]
+}

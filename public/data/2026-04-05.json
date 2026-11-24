@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-05",
+  "url": "https://www.warhammer-community.com/en-gb/articles/iewdkefd/sunday-preview-new-legio-custodes-incoming/",
+  "items": [
+    {
+      "name": "Shield Captain",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Custodian Guard Sodality",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Sentinel Guard Sodality",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Venatari Sodality",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Custodian Dreadnought",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Coronus Grav-carrier",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Caladius Grav-tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Caladius Annihilator Grav-tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Zardu Layak: The Crimson Apostle",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Word Bearers"
+    },
+    {
+      "name": "Zardu Layak: The Crimson Apostle (Special Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Word Bearers"
+    }
+  ]
+}

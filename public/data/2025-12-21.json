@@ -1,0 +1,106 @@
+{
+  "date": "2025-12-21",
+  "url": "https://www.warhammer-community.com/en-gb/articles/p7zknfqy/sunday-preview-lay-siege-with-cataphractii-terminators/",
+  "items": [
+    {
+      "name": "Siege Assault Battle Group",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Generatorum Hub",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Galvanic Magnavent",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Transterranic Gantries",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Tectonic Fragdrill",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Haemotrope Reactors",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Macroplasma Batteries",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Galvanic Servohaulers",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mechasite Minoris",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Steel Rook",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Hunter Strikes",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "T’au Empire",
+      "madeToOrder": true
+    },
+    {
+      "name": "Blood Pact",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Salvation’s Reach",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Warmaster",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Anarch",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

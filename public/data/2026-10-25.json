@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-25",
+  "url": "https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda/",
+  "items": [
+    {
+      "name": "Orlock Road Sergeants & Cyber-mastiffs",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Orlock Road Warriors",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Orlock Ogryn Minders",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Underhive Journal: Orlock – The House of Iron",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Orlock Card Pack",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Orlock Dice",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "Exalted Greater Daemon of Tzeentch",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Daemons of Tzeentch",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer Age of Sigmar"
+      ],
+      "madeToOrder": true
+    },
+    {
+      "name": "Fluxmaster on Disc",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Daemons of Tzeentch",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer Age of Sigmar"
+      ],
+      "madeToOrder": true
+    },
+    {
+      "name": "Greater Daemon of Tzeentch",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Daemons of Tzeentch",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer Age of Sigmar"
+      ],
+      "madeToOrder": true
+    },
+    {
+      "name": "The Blue Scribes",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Daemons of Tzeentch",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer Age of Sigmar"
+      ],
+      "madeToOrder": true
+    },
+    {
+      "name": "Fatemaster on Disc",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Disciples of Tzeentch",
+      "madeToOrder": true
+    },
+    {
+      "name": "Flight of the Eisenstein",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "The Flight of the Eisenstein (Premium Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Galaxy in Flames",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Sons of Horus"
+    },
+    {
+      "name": "Whisperblade",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Blood of the Bastion",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Grand Cathay"
+    }
+  ]
+}

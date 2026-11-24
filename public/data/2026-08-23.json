@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-23",
+  "url": "https://www.warhammer-community.com/en-gb/articles/eumgnilk/sunday-preview-wrath-of-the-ten-thousand/",
+  "items": [
+    {
+      "name": "Custodes Support Battle Group",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Journal Tactica – Prospero Burns: Judgement of Valdor",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Legio Custodes Dice Set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legio Custodes"
+    },
+    {
+      "name": "Empire of Man Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Beastmen Brayherds Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Beastmen Brayherds"
+    },
+    {
+      "name": "Wood Elf Realms Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Wood Elf Realms"
+    },
+    {
+      "name": "High Elf Realms Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Orc & Goblin Tribes Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Orc & Goblin Tribes"
+    },
+    {
+      "name": "Raldoron: Revenant",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Blood Angels"
+    },
+    {
+      "name": "Raldoron: Revenant (Special Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Blood Angels"
+    }
+  ]
+}

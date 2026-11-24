@@ -1,0 +1,238 @@
+{
+  "date": "2025-01-12",
+  "url": "https://www.warhammer-community.com/en-gb/articles/0drukjdc/sunday-preview-the-full-fury-of-the-empire-of-man-plus-extra-fury-from-the-imperium-of-mankind/",
+  "items": [
+    {
+      "name": "General Hans von Löwenhacke",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Harald Gemunsen, Grand Master of the Knights Panther",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Battle Wizard",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Elementalist",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Necromancer",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Captain of the Empire",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Engineer with Hochland Longrifle",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "State Troops",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Greatswords",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Flagellants",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "State Missile Troops",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Archers",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Helstorm Rocket Battery",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Steam Tank",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Grand Master of the Knights Panther",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Grand Master of the Knights of the Blazing Sun",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Grand Master of the Knights of the White Wolf",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Warrior Priest of Sigmar",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Warrior Priests of Sigmar (three miniatures)",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Priests of Ulric",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Witch Hunter",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Sir Cecil Gastonne, the Wyrm Slayer",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia"
+    },
+    {
+      "name": "Burlok Damminson",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Dwarfen Mountain Holds"
+    },
+    {
+      "name": "Frydaal the Chainmaker",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Galrauch the Great Drake",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Boreas-pattern Deredeo Dreadnought",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Deredeo Dreadnought Anvilus weapons set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Deredeo Dreadnought Boreas weapons set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Arvus Lighter",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Malcador Infernus",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Valdor Tank Hunter",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Human Throwers and Catchers",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Humans",
+      "madeToOrder": true
+    },
+    {
+      "name": "Human Blockers and Linemen",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Humans",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Halflings",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Halflings",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Chaos Dwarfs",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Chaos Dwarfs",
+      "madeToOrder": true
+    },
+    {
+      "name": "Red Tithe (special edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "The Dark Coil: Damnation",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Grombrindal: Ancestor’s Burden",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

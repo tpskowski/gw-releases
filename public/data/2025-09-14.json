@@ -1,0 +1,102 @@
+{
+  "date": "2025-09-14",
+  "url": "https://www.warhammer-community.com/en-gb/articles/qnxe95ul/sunday-preview-super-heavy-metal-in-the-age-of-darkness/",
+  "items": [
+    {
+      "name": "Fellblade Super-heavy Battle Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "MkII Assault Squad",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Journal Tactica: The Forges of Saturn",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Legiones Astartes Combat Force",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Mechanicum Combat Force",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Solar Auxilia Combat Force",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Boxed set",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "The Lord of the Rings: The War of the Rohirrim",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Helm Hammerhand, King of Rohan",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Fréaláf Hildeson, Olwyn & Lief, Heroes of Rohan",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Rohirrim Dice Set",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Accessory",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Hill Tribesmen Dice Set",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Accessory",
+      "faction": "Hill Tribes"
+    },
+    {
+      "name": "Voidscarred",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Voidscarred (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "The Remnant Blade",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Night Lords"
+    },
+    {
+      "name": "Darkness Eternal: Stories from the 41st Millennium",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Elemental Council",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "T’au Empire"
+    }
+  ]
+}

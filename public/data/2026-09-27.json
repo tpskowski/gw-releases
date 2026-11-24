@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-27",
+  "url": "https://www.warhammer-community.com/en-gb/articles/zuwukdba/sunday-preview-might-of-the-ten-thousand/",
+  "items": [
+    {
+      "name": "Aquilon Terminator Sodality",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Gyrfalcon Jetbike Sodality",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Telemon Heavy Dreadnought",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Pallas Grav-Attack",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Shield-Captain",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Custodian Guard Sodality",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Sentinel Guard Sodality",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Venatari Sodality",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Custodian Dreadnought",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Caladius Grav-Tank",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Caladius Annihilator Grav-Tank",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Coronus Grav-Carrier",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Adeptus Custodes",
+      "applicableSystems": [
+        "Warhammer 40,000",
+        "Warhammer: The Horus Heresy"
+      ]
+    },
+    {
+      "name": "Codex: Adeptus Custodes",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Codex: Adeptus Custodes (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Codex: Adeptus Custodes (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Adeptus Custodes Command Pack",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Adeptus Custodes Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Combat Patrol: Adeptus Custodes",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Adeptus Custodes"
+    },
+    {
+      "name": "Journal Tactica – The Battle for the Signus Cluster: Assault on Kol",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "White Dwarf 529",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Cold Covenant",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Cold Covenant (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Auxilia",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Dropsite Massacre",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Apostle",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Word Bearers"
+    },
+    {
+      "name": "Krakenblood (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Vaults of Terra Omnibus (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Agents"
+    }
+  ]
+}

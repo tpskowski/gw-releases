@@ -1,0 +1,84 @@
+{
+  "date": "2025-09-21",
+  "url": "https://www.warhammer-community.com/en-gb/articles/wdmije41/sunday-preview-the-drukhari-sharpen-their-blades-in-anticipation/",
+  "items": [
+    {
+      "name": "Codex: Drukhari",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Codex: Drukhari (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Lady Malys",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Battleforce: Realspace Raiders",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Combat Patrol: Drukhari",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Wracks",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Drukhari Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Drukhari Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Drukhari"
+    },
+    {
+      "name": "Combat Patrol: Death Korps of Krieg",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Tomb World",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Tomb World (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Morvenn Vahl: Spear of Faith",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "Choose Your Enemies (French)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

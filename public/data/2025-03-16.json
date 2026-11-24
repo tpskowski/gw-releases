@@ -1,0 +1,42 @@
+{
+  "date": "2025-03-16",
+  "url": "https://www.warhammer-community.com/en-gb/articles/x54hnzpq/sunday-preview-slaughter-and-worship-in-kill-team/",
+  "items": [
+    {
+      "name": "Kill Team: Blood and Zeal",
+      "system": "Kill Team",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Kill Team: Ratlings",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Ratlings Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Kill Team: Wrecka Krew",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Wrecka Krew Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Orks"
+    },
+    {
+      "name": "Killzone Upgrade: Compound Siege",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Various"
+    }
+  ]
+}

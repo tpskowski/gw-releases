@@ -1,0 +1,102 @@
+{
+  "date": "2025-04-20",
+  "url": "https://www.warhammer-community.com/en-gb/articles/xjrnugbz/sunday-preview-rot-and-ruin/",
+  "items": [
+    {
+      "name": "Codex: Death Guard",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Codex: Death Guard (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Codex: Death Guard (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Poxwrought Vector Battleforce",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Combat Patrol: Death Guard",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Death Guard Dice Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Death Guard Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Codex: World Eaters",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Codex: World Eaters (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Codex: World Eaters (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Gorestorm Slaughterpack Battleforce",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Combat Patrol: World Eaters",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "World Eaters Dice Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "World Eaters Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Combat Patrol: Emperor's Children",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Emperor’s Children"
+    },
+    {
+      "name": "Legends of the Wolf: The Omnibus",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Wolves"
+    }
+  ]
+}

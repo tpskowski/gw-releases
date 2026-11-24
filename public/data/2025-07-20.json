@@ -1,0 +1,114 @@
+{
+  "date": "2025-07-20",
+  "url": "https://www.warhammer-community.com/en-gb/articles/dlcascsr/sunday-preview-muster-the-knights-and-templars-of-the-far-future/",
+  "items": [
+    {
+      "name": "Codex Supplement: Black Templars",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Codex Supplement: Black Templars (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Crusade Ancient",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Execrator",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Combat Patrol: Black Templars",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Black Templars Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Black Templars Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Codex: Grey Knights",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Codex: Grey Knights (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Battleforce: Sanctic Conclave",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Combat Patrol: Grey Knights",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Grey Knights Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Grey Knights Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Combat Patrol: Space Wolves",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Combat Patrol: Tyranid Assault Brood",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Tyranids"
+    },
+    {
+      "name": "Space Wolves: Spear of Russ (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Broken Crusade",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Grey Knights: The Omnibus",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Grey Knights"
+    }
+  ]
+}

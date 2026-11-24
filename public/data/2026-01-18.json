@@ -1,0 +1,36 @@
+{
+  "date": "2026-01-18",
+  "url": "https://www.warhammer-community.com/en-gb/articles/qvxeezrk/sunday-preview-fell-hunters-and-faithful-wardens-clash-in-kill-team/",
+  "items": [
+    {
+      "name": "Kill Team: Shadowhunt",
+      "system": "Kill Team",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "XV26 Stealth Battlesuits Kill Team",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "T’au Empire"
+    },
+    {
+      "name": "Wolf Scouts Kill Team",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "XV26 Stealth Battlesuits Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "T’au Empire"
+    },
+    {
+      "name": "Wolf Scouts Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Space Wolves"
+    }
+  ]
+}

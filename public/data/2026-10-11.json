@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-11",
+  "url": "https://www.warhammer-community.com/en-gb/articles/k4cm0fox/sunday-preview-open-the-khazalite-holds/",
+  "items": [
+    {
+      "name": "Khazalite Holds Army Set",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Khazalite Holds"
+    },
+    {
+      "name": "Oath Fulfilled",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Slaves to Darkness"
+    },
+    {
+      "name": "Battlefields: Armageddon – Ready-painted Terrain",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Shadow of the Silver Wolf",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Stormcast Eternals"
+    }
+  ]
+}

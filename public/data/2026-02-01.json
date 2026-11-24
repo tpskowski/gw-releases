@@ -1,0 +1,166 @@
+{
+  "date": "2026-02-01",
+  "url": "https://www.warhammer-community.com/en-gb/articles/qsxg0ftc/sunday-preview-a-magical-melee-rocks-the-mortal-realms/",
+  "items": [
+    {
+      "name": "Battletome: Disciples of Tzeentch",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Battletome: Disciples of Tzeentch (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Fatemaster",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Magister on Disc of Tzeentch",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Argent Shards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Spearhead: Tzaangor Warflock",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Battleforce: Warpflame Cavalcade",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Regiments of Renown: Seekers of Silver",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Disciples of Tzeentch Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Disciples of Tzeentch Dice",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Disciples of Tzeentch"
+    },
+    {
+      "name": "Battletome: Lumineth Realm-lords",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Battletome: Lumineth Realm-lords (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Vanari Lord Regent",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Spearhead: Hurakan Vanguard",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Battleforce: Iliathan Warhost",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Regiments of Renown: Sigil Convocation",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Lumineth Realm-lords Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Lumineth Realm-lords Dice",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Classic Space Marine Captains",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Terminator Characters",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Ultramarines Characters",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Ultramarines",
+      "madeToOrder": true
+    },
+    {
+      "name": "Armour Through the Ages",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines",
+      "madeToOrder": true
+    },
+    {
+      "name": "White Dwarf Issue 521",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Aestred Thurga: Pyre of Faith (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "First Marshal",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "The Witch Hunter’s Handbook",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Empire of Man"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-15",
+  "url": "https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/",
+  "items": [
+    {
+      "name": "Skeleton Warriors",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Skeleton Archers",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Skeleton Horsemen",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Skeleton Chariots",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Tomb Kings of Khemri Battle March Army",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Arcane Journal: The Doom of Lord Carrard",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "The Eight Peaks Loonatics",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Night Goblins"
+    },
+    {
+      "name": "Ripper Bolgrot & Fungus the Loon",
+      "system": "Blood Bowl",
+      "type": "Model",
+      "faction": "Night Goblins",
+      "supplementalUrl": "https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/"
+    },
+    {
+      "name": "Spike! Journal Issue 23",
+      "system": "Blood Bowl",
+      "type": "Magazine",
+      "faction": "Night Goblins"
+    },
+    {
+      "name": "Night Goblins Pitch",
+      "system": "Blood Bowl",
+      "type": "Accessory",
+      "faction": "Night Goblins"
+    },
+    {
+      "name": "Night Goblins Card Pack",
+      "system": "Blood Bowl",
+      "type": "Accessory",
+      "faction": "Night Goblins"
+    },
+    {
+      "name": "Night Goblins Dice",
+      "system": "Blood Bowl",
+      "type": "Accessory",
+      "faction": "Night Goblins"
+    },
+    {
+      "name": "Try Warhammer Magazine",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Realm of Silence",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Realm of Silence (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Siegemaster Vorx Tapestry",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Realm of Silence Notebook",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "The Lords of Silence",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Throne Questoris",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Knights"
+    },
+    {
+      "name": "Ashes of the Imperium",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Chem Dog",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Ravenor: The Omnibus (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Agents"
+    },
+    {
+      "name": "Siege of Terra: Collection V (German Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

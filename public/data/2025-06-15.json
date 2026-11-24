@@ -1,0 +1,108 @@
+{
+  "date": "2025-06-15",
+  "url": "https://www.warhammer-community.com/en-gb/articles/piux6zf8/sunday-preview-grand-cathay-marches-from-nan-gau/",
+  "items": [
+    {
+      "name": "Arcane Journal: Armies of Grand Cathay",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Grand Cathay Battalion",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Shugengan Lord on Great Spirit Longma",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Gate Masters of the Celestial Cities",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Sky Lantern",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Cathayan Sentinel",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Grand Cathay Reference Cards",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Grand Cathay Dice Set",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Warhammer: The Old World – Matched Play Guide",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Swan Knights on Foot",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mounted Swan Knights",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "Swan Knight Commanders",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "Faramir, Captain of Ithilien",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "Minas Tirith Command Set 1",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "Minas Tirith Command Set 2",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Minas Tirith",
+      "madeToOrder": true
+    },
+    {
+      "name": "13th Legion",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}

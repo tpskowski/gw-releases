@@ -1,0 +1,180 @@
+{
+  "date": "2025-08-03",
+  "url": "https://www.warhammer-community.com/en-gb/articles/uwsdjvro/sunday-preview-protect-the-yields/",
+  "items": [
+    {
+      "name": "Codex: Leagues of Votann",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Codex: Leagues of Votann (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Buri Aegnirssen",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Arkanyst Evaluator",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Memnyr Strategist",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Cthonian Earthshakers",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Ironkin Steeljacks",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Kapricus",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Combat Patrol: Leagues of Votann",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Leagues of Votann Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Leagues of Votann Datacards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Vulkan He’stan",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Salamanders"
+    },
+    {
+      "name": "Combat Patrol: Salamanders",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Salamanders"
+    },
+    {
+      "name": "Salamanders Dice Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Salamanders"
+    },
+    {
+      "name": "World Eaters Slaughterbound",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Death Guard Lord of Poxes",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Warhammer Commemorative Series: Captain Centos",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Peasant Bowmen",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "Peasant Bowmen Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "Men-at-Arms with Spears",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "Men-at-Arms with Spears Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "Men-at-Arms with Halberds",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "Men-at-Arms with Halberds Command",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Kingdom of Bretonnia",
+      "madeToOrder": true
+    },
+    {
+      "name": "The Lords of Silence (Illustrated and Annotated edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "The High Kâhl’s Oath",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Leagues of Votann"
+    },
+    {
+      "name": "Final Deployment",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Deathworlder (French edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "TOMY Necron Scarab Plush",
+      "system": "Warhammer 40,000",
+      "type": "Other",
+      "faction": "Necrons"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-06",
+  "url": "https://www.warhammer-community.com/en-gb/articles/krnawho8/sunday-preview-shake-the-earth-with-the-sons-of-behemat/",
+  "items": [
+    {
+      "name": "Ma Maegran, Chooser of the Mighty",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Boss-stompers",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Stomper Tribe",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Brawlers of Behemat",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Destruction Battletome: Sons of Behemat",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Battletome: Sons of Behemat (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Sons of Behemat Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Sons of Behemat Dice",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Sons of Behemat"
+    },
+    {
+      "name": "Rohan Battlehost",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Boxed set",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Mirkwood Battlehost",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Boxed set",
+      "faction": "Woodland Realm"
+    },
+    {
+      "name": "Dol Guldur Battlehost",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Boxed set",
+      "faction": "Dol Guldur"
+    }
+  ]
+}

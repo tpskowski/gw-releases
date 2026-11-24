@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-05",
+  "url": "https://www.warhammer-community.com/en-gb/articles/qqcxxrmm/sunday-preview-new-warhammer-40000-starter-sets-are-coming/",
+  "items": [
+    {
+      "name": "Warhammer 40,000: Starter Set",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer 40,000: Introductory Set",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Space Marines: Intercessors + Paints",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Orks: Boyz + Paints",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Orks"
+    },
+    {
+      "name": "Warhammer 40,000: Paints + Tools",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Getting Started: Space Marines",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Getting Started: Orks",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Orks"
+    },
+    {
+      "name": "Ghosts of Cadia",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Ghosts of Cadia (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Longshot",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Devastation of Baal",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Blood Angels"
+    },
+    {
+      "name": "Lords of Blood: A Blood Angels Omnibus (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Blood Angels"
+    }
+  ]
+}

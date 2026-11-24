@@ -1,0 +1,120 @@
+{
+  "date": "2025-04-13",
+  "url": "https://www.warhammer-community.com/en-gb/articles/zc96jzat/sunday-preview-high-elves-bounty-hunters-heroes-and-knights/",
+  "items": [
+    {
+      "name": "High Elf Mages",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Dragon Princes of Caledor",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Elven Archers",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Elven Spearmen",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Tiranoc Chariots",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Lothern Skycutter",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "High Elf Realms"
+    },
+    {
+      "name": "Abyssal Ferryman: Hagthor Jarlun and Aster Felsturn",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Silberlant Sevos the Infotek",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "The Prophet of the Redemption",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Vandoth the Fallen",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Whisper Merchant and Psychoteric Thrall",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Karacnos Assault Tank Squadron",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Krios Squadron",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Acastus Knights Asterius",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Questoris Familia"
+    },
+    {
+      "name": "Cerastus Knights Atrapos",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Questoris Familia"
+    },
+    {
+      "name": "Questoris Knights Magaera and Styrix",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Questoris Familia"
+    },
+    {
+      "name": "Aster Crohne, The Shroudmaker",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Blood Angels"
+    },
+    {
+      "name": "Kaedes Nex, The Blood Crow",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Raven Guard"
+    },
+    {
+      "name": "Lucius: The Faultless Blade",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Emperor’s Children"
+    }
+  ]
+}

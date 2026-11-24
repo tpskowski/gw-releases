@@ -1,0 +1,36 @@
+{
+  "date": "2025-03-23",
+  "url": "https://www.warhammer-community.com/en-gb/articles/ebyoa9rq/sunday-preview-heavy-armour-from-the-forges-of-mars/",
+  "items": [
+    {
+      "name": "Karacnos Assault Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Krios Battle Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Thanatar Calix Siege-automata",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Ursarax Cohort",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Mechanicum"
+    },
+    {
+      "name": "Farsight: Blade of Truth",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "T’au Empire"
+    }
+  ]
+}

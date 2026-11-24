@@ -1,0 +1,113 @@
+{
+  "date": "2025-09-07",
+  "url": "https://www.warhammer-community.com/en-gb/articles/hdrpv0rg/sunday-preview-helsmiths-of-hashut-and-necromunda-enforcers/",
+  "items": [
+    {
+      "name": "Helsmiths of Hashut Army Set",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Helsmiths of Hashut"
+    },
+    {
+      "name": "Spearhead: Deathrattle Tomb Host",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Soulblight Gravelords"
+    },
+    {
+      "name": "Spearhead: Snarlpack Huntaz",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Gloomspite Gitz"
+    },
+    {
+      "name": "Bastions of Law",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Palanite Enforcer Captains & Sergeants",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Palanite Enforcer Weapons and Upgrades",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Palanite Enforcer Haunts",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Palanite Companions",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Ashwing Helamites",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Bastions of Law Tactics Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Bastions of Law Dice Set",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Palanite Enforcers"
+    },
+    {
+      "name": "Space Wolves Priests",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves",
+      "madeToOrder": true
+    },
+    {
+      "name": "Wolf Guard Standard Bearer",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves",
+      "madeToOrder": true
+    },
+    {
+      "name": "Njal Stormcaller",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves",
+      "madeToOrder": true
+    },
+    {
+      "name": "Lukas the Trickster",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves",
+      "madeToOrder": true
+    },
+    {
+      "name": "Bjorn the Fell-handed",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Wolves",
+      "madeToOrder": true
+    },
+    {
+      "name": "Saints of the Imperium (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-26",
+  "url": "https://www.warhammer-community.com/en-gb/articles/ek1kn9kh/sunday-preview-the-new-edition-of-necromunda-emerges-from-the-underhive/",
+  "items": [
+    {
+      "name": "Necromunda Skirmish: Core Set",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Necromunda: Core Rulebook",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Gangs of the Underhive",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Gangs of the Outlands",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Core Gang Tactics Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Campaign and Scenario Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "House Cawdor Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Cawdor"
+    },
+    {
+      "name": "House Orlock Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Orlock"
+    },
+    {
+      "name": "House Goliath Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "House Escher Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Escher"
+    },
+    {
+      "name": "House Delaque Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Delaque"
+    },
+    {
+      "name": "House Van Saar Underhive Crew",
+      "system": "Necromunda",
+      "type": "Boxed set",
+      "faction": "House Van Saar"
+    },
+    {
+      "name": "Zone Mortalis Factoria Pipes",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Conditions and Status Markers",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Necromunda 28.5mm Bases",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Necromunda 50mm Bases",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "The Wicked and the Warped",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "The Wicked and the Warped (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "The Infinite and the Divine",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    }
+  ]
+}

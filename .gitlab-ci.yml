@@ -1,0 +1,9 @@
+deploy-site:
+  image: python:3.13-alpine
+  stage: deploy
+  script:
+    - python scripts/verify_data.py
+    - test -s public/index.html
+  pages: true
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'

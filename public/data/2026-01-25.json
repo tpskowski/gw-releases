@@ -1,0 +1,78 @@
+{
+  "date": "2026-01-25",
+  "url": "https://www.warhammer-community.com/en-gb/articles/zioctyhm/sunday-preview-embrace-chaos-with-new-battleforces-and-old-world-classics/",
+  "items": [
+    {
+      "name": "Battleforce: Khorne Daemonkin",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "World Eaters"
+    },
+    {
+      "name": "Battleforce: Sekhmet Coven",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Thousand Sons"
+    },
+    {
+      "name": "Battleforce: Vile Vectorium",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Death Guard"
+    },
+    {
+      "name": "Battleforce: Lords of Excess",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Emperor’s Children"
+    },
+    {
+      "name": "Chaos Marauder Horsemen",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Chaos Marauders",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Warriors of Chaos"
+    },
+    {
+      "name": "Cataphractii Terminators with Power Mauls and Volkite Chargers",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Cataphractii Terminators with Combi-bolters and Power Fists",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Breacher Squad",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Breacher Squad Upgrade Set",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Accessory",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Apostle",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Word Bearers"
+    },
+    {
+      "name": "Death of Integrity",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Marines"
+    }
+  ]
+}

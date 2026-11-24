@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-26",
+  "url": "https://www.warhammer-community.com/en-gb/articles/6l0ru1k2/sunday-preview-grand-cathay-levies-and-solar-auxilia-reinforcements/",
+  "items": [
+    {
+      "name": "Astromancers of the Celestial Court",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Iron Hail Gunners & Crane Gunner Teams",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Peasant Levy",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Grand Cathay"
+    },
+    {
+      "name": "Charonite Ogryn Section",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Rapier Fire Support Battery",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Rapier Direct Fire Battery",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Solar Auxilia"
+    },
+    {
+      "name": "Journal Tactica: The Battle of Tallarn Part One",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "HIVE",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "White Dwarf Issue 524",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    }
+  ]
+}

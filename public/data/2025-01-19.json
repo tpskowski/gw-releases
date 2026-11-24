@@ -1,0 +1,84 @@
+{
+  "date": "2025-01-19",
+  "url": "https://www.warhammer-community.com/en-gb/articles/ryr2r2tf/sunday-preview-its-beginning-to-look-a-lot-like-rhana-dandra/",
+  "items": [
+    {
+      "name": "Codex: Aeldari",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Codex: Aeldari (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Aeldari Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Aeldari Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Lhykhis, the Whispering Web",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Warp Spiders",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Baharroth, the Cry of the Wind",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Swooping Hawks",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Fuegan, the Burning Lance",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Fire Dragons",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Asurmen, the Hand of Asuryan",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Wave Serpent",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "Aeldari War Walkers",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Aeldari"
+    }
+  ]
+}

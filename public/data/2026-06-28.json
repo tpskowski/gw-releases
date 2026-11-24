@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-28",
+  "url": "https://www.warhammer-community.com/en-gb/articles/4o8ihwtm/sunday-preview-claim-the-old-world-with-a-new-core-set/",
+  "items": [
+    {
+      "name": "Warhammer: The Old World Core Set",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer: The Old World Rulebook",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Battle March: General’s Companion",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Common Magic Items Reference Cards",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Lores of Magic Reference Cards",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Orc Raiders",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Orc & Goblin Tribes",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mercenary Ogres with Great Weapons",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mercenary Ogres with Hand Weapons",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mercenary Ogre Captain",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Baggage Train Carts",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Baby Dragons",
+      "system": "Warhammer: The Old World",
+      "type": "Model",
+      "faction": "Unspecified",
+      "madeToOrder": true
+    },
+    {
+      "name": "Middle-earth Strategy Battle Game Journal: The Burning of the Westfold",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Riders of Rohan",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Warriors of Rohan Commanders",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rohan"
+    },
+    {
+      "name": "Hill Tribesmen Commanders",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Hill Tribes"
+    },
+    {
+      "name": "White Dwarf 526",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Flames of Betrayal",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

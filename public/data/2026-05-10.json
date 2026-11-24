@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-10",
+  "url": "https://www.warhammer-community.com/en-gb/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar/",
+  "items": [
+    {
+      "name": "Battletome: Cities of Sigmar",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Battletome: Cities of Sigmar (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Cogfort",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Erasmus Zonn the Enlightened One",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Mallus Forgepriest",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Aqshian Pyrocaster",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Amethyst Knellmage",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Freeguild Gallants",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Gate Gargants",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Dawner’s Triumph",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Jorvan Kreel, Heir of the Kraken",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Freeguild Grenadiers",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Spearhead: Zenestra’s Zealots",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Regiment of Renown: Ven Denst’s Hounds",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Cities of Sigmar Dice",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Cities of Sigmar Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Cities of Sigmar"
+    },
+    {
+      "name": "Thyrielle's Zephyrites",
+      "system": "Warhammer Underworlds",
+      "type": "Model",
+      "faction": "Lumineth Realm-lords"
+    },
+    {
+      "name": "Vostroyan Command Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Commander with Chainsword",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Commander with Power Fist",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Commander with Power Sword",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Guardsman with Flamer",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Guardsman with Grenade Launcher",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Guardsman with Plasma Guns",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Guardsmen with Sniper Rifles",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Heavy Bolter Team",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Lascannon Team",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan Mortar Team",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    },
+    {
+      "name": "Vostroyan platoon",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Astra Militarum",
+      "madeToOrder": true
+    }
+  ]
+}

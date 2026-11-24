@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-17",
+  "url": "https://www.warhammer-community.com/en-gb/articles/cbleac3a/sunday-preview-mighty-war-machines-in-the-age-of-darkness/",
+  "items": [
+    {
+      "name": "Horus Heresy: Falchion Super-Heavy Tank Destroyer",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Horus Heresy: Spartan Prometheus Assault Tank",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Model",
+      "faction": "Legiones Astartes"
+    },
+    {
+      "name": "Eisenhorn: The Omnibus (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Imperial Agents"
+    }
+  ]
+}

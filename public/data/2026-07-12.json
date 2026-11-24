@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-12",
+  "url": "https://www.warhammer-community.com/en-gb/articles/p0r8elbp/sunday-preview-ogor-mawtribes-on-the-warpath/",
+  "items": [
+    {
+      "name": "Ogor Mawtribes Army Set",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Ogor Mawtribes"
+    },
+    {
+      "name": "Warlord Titan with Quake Cannon and Conversion Beam Extirpator",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Warlord Titan with Volkite Destructor and Macro-gatling Blaster",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Reaver Titan with Graviton Obliterator and Volkite Annihilator",
+      "system": "Legions Imperialis",
+      "type": "Model",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Warlord Quake Cannon and Conversion Beam Extirpator",
+      "system": "Legions Imperialis",
+      "type": "Accessory",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Warlord Volkite Destructor and Macro-gatling Blaster",
+      "system": "Legions Imperialis",
+      "type": "Accessory",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Reaver Graviton Obliterator and Volkite Annihilator",
+      "system": "Legions Imperialis",
+      "type": "Accessory",
+      "faction": "Collegia Titanica"
+    },
+    {
+      "name": "Uruk-hai Commanders (Set 1)",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Isengard",
+      "madeToOrder": true
+    },
+    {
+      "name": "Uruk-hai Commanders (Set 2)",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Isengard",
+      "madeToOrder": true
+    },
+    {
+      "name": "Uruk-hai Battering Ram",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Isengard",
+      "madeToOrder": true
+    },
+    {
+      "name": "Uruk-hai Scouts",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Isengard",
+      "madeToOrder": true
+    },
+    {
+      "name": "Rohan Commanders",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Rohan",
+      "madeToOrder": true
+    },
+    {
+      "name": "Mephiston: The Box Set (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Blood Angels"
+    },
+    {
+      "name": "Warhammer World: Book of Dioramas – Fifth Edition",
+      "system": "Other",
+      "type": "Other",
+      "faction": "Various"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1d2b29">
+<title>GW Release Tracker</title>
+<link rel="stylesheet" href="style.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header><div class="wrap top"><h1 class="brand">GW Release Tracker</h1><span id="coverage">Loading…</span></div></header>
+<main class="wrap" id="explore">
+<div class="workspace">
+<aside><form id="filters"><div class="section-head"><h2>Filters</h2><button type="reset">Reset</button></div><label>Game system<select id="system"></select></label><label>Release type<select id="type"></select></label><label>Faction<select id="faction"></select></label><label>Order status<select id="orderStatus"></select></label><fieldset><legend>Preview month</legend><label>From<select id="from"></select></label><label>To<select id="through"></select></label></fieldset><label class="include-mto"><input id="include-mto" type="checkbox" checked>Include made to order</label></form></aside>
+<section class="chart-panel" aria-labelledby="chart-title"><div class="chart-top"><div><p class="kicker">Distribution</p><h2 id="chart-title">Releases by game system</h2></div><label>Group by<select id="group"><option value="system">Game system</option><option value="type">Release type</option><option value="date">Preview date</option><option value="faction">Faction</option><option value="orderStatus">Order status</option></select></label></div>
+<div id="total" aria-live="polite"></div><div id="chart"></div></section>
+</div>
+<section class="monthly chart-panel" aria-labelledby="monthly-title">
+  <div class="chart-top"><h2 id="monthly-title">Releases by month</h2>
+    <label>Group months by<select id="monthly-group"><option value="type">Release type</option><option value="system">Game system</option><option value="faction">Faction</option><option value="date">Preview date</option><option value="orderStatus">Order status</option></select></label>
+  </div>
+  <label class="include-mto"><input id="monthly-include-mto" type="checkbox" checked>Include made to order</label>
+  <div class="series-actions"><button id="show-series" type="button">Show all</button><button id="hide-series" type="button">Hide all</button></div>
+  <div id="series-legend" role="group" aria-label="Visible monthly groups"></div>
+  <div id="monthly-charts"></div>
+  <div id="month-tooltip" role="tooltip" hidden></div>
+  <p class="note"><strong>How releases are counted.</strong> The Accessories group covers system-neutral paints, brushes, hobby tools, dice, and other accessories. Accessories made for a specific game appear under that game. Some releases apply to more than one category. When grouped by game system, a shared kit counts once in each applicable game, so the bars can add up to more than the number of distinct offerings.</p>
+</section>
+</main>
+</body></html>

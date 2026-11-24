@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-16",
+  "url": "https://www.warhammer-community.com/en-gb/articles/sr4taoqg/sunday-preview-orks-rampage-in-next-week/",
+  "items": [
+    {
+      "name": "Codex: Orks",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Orks"
+    },
+    {
+      "name": "Codex: Orks (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Orks"
+    },
+    {
+      "name": "Nazdreg",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Warboss",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Mek",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Boyz",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Warbikers",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Trukk",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Orks Command Pack",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Orks"
+    },
+    {
+      "name": "Orks Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Orks"
+    },
+    {
+      "name": "Big Mek Dakkarig",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Weirdboy",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Wartrakk",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Kommand Krew",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Ikit Claw",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Throt The Unclean",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Lord Skrolk",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Tretch Craventail",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Queek Headtaker",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Skweel Gnawtooth",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Plaguelord Nurglitch",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Warlord Spinetail",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Deathmaster Snikch",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Verminlord",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Warpgnaw Verminlord",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Skaven",
+      "madeToOrder": true
+    },
+    {
+      "name": "Galadriel, Protectress of Lothlorien",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Lórien",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Lórien Elf Bowmen",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Lórien",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Guards of the Galadhrim Court",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Lórien",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Khazad-dûm Dwarven Warriors",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Khazad-dûm",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Khazad-dûm Dwarven Bowmen",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Khazad-dûm",
+      "madeToOrder": true
+    },
+    {
+      "name": "Classic Khazad-dûm Dwarven Commanders",
+      "system": "Middle-earth Strategy Battle Game",
+      "type": "Model",
+      "faction": "Khazad-dûm",
+      "madeToOrder": true
+    },
+    {
+      "name": "Deathwatch (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Deathwatch"
+    },
+    {
+      "name": "Ghazghkull Thraka: Prophet of the Waaagh! (Illustrated and Annotated Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Orks"
+    },
+    {
+      "name": "Bjorn: The Fell-Handed (Hardback)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Wolves"
+    },
+    {
+      "name": "Demolisher (Paperback)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Ghazghkull Thraka: Warlord of Warlords (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Orks"
+    }
+  ]
+}

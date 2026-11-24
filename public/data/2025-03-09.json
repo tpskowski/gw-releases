@@ -1,0 +1,60 @@
+{
+  "date": "2025-03-09",
+  "url": "https://www.warhammer-community.com/en-gb/articles/kfkbfxcr/sunday-preview-the-ash-wastes-fight-back/",
+  "items": [
+    {
+      "name": "Necromunda: Tribes of the Wastelands",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Sha’dar Hunters and Anthromite Spinewyrms",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Ash Waste Nomads: Weapons & Upgrades",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Thatos Pattern Fortified Hab Module",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Zone Mortalis: Ruined Underhive Sector",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Tribes of the Wastelands Gang Tactics Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Tribes of the Wastelands Gang Dice",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "Ash Waste Nomads"
+    },
+    {
+      "name": "Double Eagle (German edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Titanicus (German edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adeptus Titanicus"
+    }
+  ]
+}

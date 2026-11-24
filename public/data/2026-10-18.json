@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-18",
+  "url": "https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/",
+  "items": [
+    {
+      "name": "Host of Nehekhara Army Reinforcement Set",
+      "system": "Warhammer: The Old World",
+      "type": "Boxed set",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Arcane Journal: The River of Bones",
+      "system": "Warhammer: The Old World",
+      "type": "Rulebook",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Tomb Kings Dice",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Tomb Kings Reference Cards",
+      "system": "Warhammer: The Old World",
+      "type": "Accessory",
+      "faction": "Tomb Kings of Khemri"
+    },
+    {
+      "name": "Da Red Gobbo",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Orks"
+    },
+    {
+      "name": "Grey Knights (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Grey Knights"
+    },
+    {
+      "name": "Raptors: War and Shadow",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Raptors"
+    },
+    {
+      "name": "Crucible of Fire",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Da Red Gobbo’s Reckoning",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Death Rider",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Armageddon: Season of Fire",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Treachery Unbound",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Ghost Legion",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Alpha Legion"
+    }
+  ]
+}

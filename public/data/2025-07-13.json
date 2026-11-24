@@ -1,0 +1,253 @@
+{
+  "date": "2025-07-13",
+  "url": "https://www.warhammer-community.com/en-gb/articles/jkwdtmzc/sunday-preview-gold-and-gore-flow-through-the-mortal-realms/",
+  "items": [
+    {
+      "name": "Battletome: Blades of Khorne",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Battletome: Blades of Khorne (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Spearhead: Fangs of the Blood God",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Deathbringer",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Claws of Karanak",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Goreblade Warband",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Regiments of Renown: The Red Revelation",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Blades of Khorne Dice Set",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Blades of Khorne Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Battletome: Kharadron Overlords",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Battletome: Kharadron Overlords (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Spearhead: Grundstok Trailblazers",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Null-Khemist",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Vongrim Harpoon Crew",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Zontari Endrin Dock",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Regiments of Renown: Drekki’s Privateers",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Kharadron Overlords Dice",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Kharadron Overlords Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Kharadron Overlords"
+    },
+    {
+      "name": "Citadel Wood",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Enduring Stormvault",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Hallowed Stormthrone",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Sigmarite Dais",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Penumbral Stormvault",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Shattered Temple",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Penumbral Engine",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Various",
+      "madeToOrder": true
+    },
+    {
+      "name": "Kamandora’s Blades",
+      "system": "Warhammer Underworlds",
+      "type": "Model",
+      "faction": "Blades of Khorne"
+    },
+    {
+      "name": "Raging Slayers Rivals Deck",
+      "system": "Warhammer Underworlds",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Queen of the Rose Throne",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Soulblight Gravelords"
+    },
+    {
+      "name": "Hammers of Ulric",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Empire of Man"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 1",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 2",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 3",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 4",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 5",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 6",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 7",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Horus Heresy Novella Collection 8",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "The Fall of Cadia (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Carcharodons: Void Exile (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Carcharodons"
+    },
+    {
+      "name": "Horus Heresy Omnibus XVIII (German Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

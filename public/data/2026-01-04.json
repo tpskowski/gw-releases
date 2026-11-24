@@ -1,0 +1,108 @@
+{
+  "date": "2026-01-04",
+  "url": "https://www.warhammer-community.com/en-gb/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds/",
+  "items": [
+    {
+      "name": "Captain Titus and The Wardens of Ultramar",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Nekrosor Ammentar",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Necrons"
+    },
+    {
+      "name": "C’tan Shard of the Nightbringer",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Necrons"
+    },
+    {
+      "name": "500 Worlds: Titus – The Battle for Unity Begins",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "500 Worlds: Titus (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Space Marine Heads",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Boarding Actions Terrain Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "500 Worlds Battalion: Necrons",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Destroyer Cult Dice Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Farsight: Blade of Truth",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "T’au Empire"
+    },
+    {
+      "name": "Vaults of Terra: The Omnibus",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Inquisition"
+    },
+    {
+      "name": "Fulgrim: The Perfect Son",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Emperor’s Children"
+    },
+    {
+      "name": "Siege of Terra: The Shattered and the Soulless",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Dominion Genesis (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Adeptus Mechanicus"
+    },
+    {
+      "name": "Leontus: Lord Solar (French Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Tomb World (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Dropsite Massacre (German Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

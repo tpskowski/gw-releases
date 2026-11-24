@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-30",
+  "url": "https://www.warhammer-community.com/en-gb/articles/zseghuho/sunday-preview-goliath-vs-escher-showdown/",
+  "items": [
+    {
+      "name": "Goliath Forge Smelters",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "Forge Bosses and Sumpkrocs",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "Underhive Journal: Goliath – The House of Chains",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "House Goliath Reference Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "House Goliath Dice",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Goliath"
+    },
+    {
+      "name": "Blades of the Matriarch",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Escher"
+    },
+    {
+      "name": "Escher Matriarchs and Phyrr Cats",
+      "system": "Necromunda",
+      "type": "Model",
+      "faction": "House Escher"
+    },
+    {
+      "name": "Underhive Journal: Escher – The House of Blades",
+      "system": "Necromunda",
+      "type": "Rulebook",
+      "faction": "House Escher"
+    },
+    {
+      "name": "House Escher Reference Cards",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Escher"
+    },
+    {
+      "name": "House Escher Dice",
+      "system": "Necromunda",
+      "type": "Accessory",
+      "faction": "House Escher"
+    },
+    {
+      "name": "White Dwarf Issue 528",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Blackheart: Claws of the Maelstrom",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Red Corsairs"
+    },
+    {
+      "name": "Blackheart: Claws of the Maelstrom (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Red Corsairs"
+    },
+    {
+      "name": "Voice of Command",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "The Relentless Dead (French and German editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Apostle (French edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Word Bearers"
+    }
+  ]
+}

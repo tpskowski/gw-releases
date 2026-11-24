@@ -1,0 +1,66 @@
+{
+  "date": "2026-06-07",
+  "url": "https://www.warhammer-community.com/en-gb/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition/",
+  "items": [
+    {
+      "name": "Warhammer 40,000: Core Rules",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer 40,000: Combat Patrol Companion",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer 40,000: Terrain Area Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer 40,000: Chapter Approved Mission Deck 2026-27",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Warhammer 40,000: Dominatus Narrative Campaign Deck: Armageddon",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Various"
+    },
+    {
+      "name": "Armageddon: Season of Fire (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "Voidscarred",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Aeldari"
+    },
+    {
+      "name": "The Remnant Blade",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Night Lords"
+    },
+    {
+      "name": "Tomb World",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Necrons"
+    },
+    {
+      "name": "Grotsnik: Da Mad Dok (French and German Editions)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Orks"
+    }
+  ]
+}

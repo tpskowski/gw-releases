@@ -1,0 +1,133 @@
+{
+  "date": "2025-12-28",
+  "url": "https://www.warhammer-community.com/en-gb/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom/",
+  "items": [
+    {
+      "name": "Battletome: Maggotkin of Nurgle",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Battletome: Maggotkin of Nurgle (Gamer’s Edition)",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Rulebook",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Festus the Leechlord",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Sloven Knights",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Putrid Blightkings",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Rotswords",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Pestigors",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "The Court of Gelgus Pust",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "The Cankerborn",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Pox-Wretches",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Spoilpox Scrivener",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Model",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Regiments of Renown: The Pustules",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Spearhead: Bubonic Cell",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Spearhead: Helforge Host",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Boxed set",
+      "faction": "Helsmiths of Hashut"
+    },
+    {
+      "name": "Maggotkin of Nurgle Warscroll Cards",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Maggotkin of Nurgle Dice Set",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Accessory",
+      "faction": "Maggotkin of Nurgle"
+    },
+    {
+      "name": "Made to Order: Sisters of Battle Army Set",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Adepta Sororitas",
+      "madeToOrder": true
+    },
+    {
+      "name": "White Dwarf Issue 520",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Verminslayer",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Grombrindal: Ancestor’s Burden",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Fiction",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Dropsite Massacre (French Edition)",
+      "system": "Warhammer: The Horus Heresy",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

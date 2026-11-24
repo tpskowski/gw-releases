@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-13",
+  "url": "https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit/",
+  "items": [
+    {
+      "name": "Captain on Bike",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Outrider Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Vanguard Veteran Squad with Jump Packs",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Intercessor Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Kaius Konorius",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Eradicators with Heavy Bolters",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Land Speeder",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Champions of Armageddon",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Codex: Space Marines",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Codex: Space Marines (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Codex: Space Marines (Limited Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Command Pack: Space Marines",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Space Marines Dice",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Helbrecht: Sin of Hope",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Helbrecht: Sin of Hope (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Black Templars"
+    },
+    {
+      "name": "Master of Rites",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Ultramarines"
+    },
+    {
+      "name": "Dawn of Fire: Crusade of Vengeance",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Various"
+    },
+    {
+      "name": "The Sundering",
+      "system": "Warhammer: The Old World",
+      "type": "Fiction",
+      "faction": "Various"
+    }
+  ]
+}

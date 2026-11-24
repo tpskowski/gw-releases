@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-03",
+  "url": "https://www.warhammer-community.com/en-gb/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror/",
+  "items": [
+    {
+      "name": "Terror on Devlan",
+      "system": "Kill Team",
+      "type": "Boxed set",
+      "faction": "Various"
+    },
+    {
+      "name": "Nemesis Operatives",
+      "system": "Kill Team",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "The Archivist",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Ambull",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Unspecified"
+    },
+    {
+      "name": "Celestian Insidiants",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "Murderwing",
+      "system": "Kill Team",
+      "type": "Model",
+      "faction": "Chaos Space Marines"
+    },
+    {
+      "name": "Celestian Insidiants Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Adepta Sororitas"
+    },
+    {
+      "name": "Murderwing Datacards",
+      "system": "Kill Team",
+      "type": "Accessory",
+      "faction": "Chaos Space Marines"
+    },
+    {
+      "name": "Klonk the Rockbrow Squig Plush",
+      "system": "Warhammer Age of Sigmar",
+      "type": "Other",
+      "faction": "Orruk Warclans"
+    },
+    {
+      "name": "Goff Ork Boy Plush",
+      "system": "Warhammer 40,000",
+      "type": "Other",
+      "faction": "Orks"
+    },
+    {
+      "name": "Cheeky Nurgling Plush",
+      "system": "Other",
+      "type": "Other",
+      "faction": "Daemons of Nurgle"
+    }
+  ]
+}

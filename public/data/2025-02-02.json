@@ -1,0 +1,120 @@
+{
+  "date": "2025-02-02",
+  "url": "https://www.warhammer-community.com/en-gb/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers/",
+  "items": [
+    {
+      "name": "Codex: Astra Militarum",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Codex: Astra Militarum (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Lord Marshal Dreir",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Krieg Command Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Death Riders",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Krieg Combat Engineers",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Death Korps of Krieg",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Krieg Heavy Weapons Squad",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Artillery Team",
+      "system": "Warhammer 40,000",
+      "type": "Model",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Combat Patrol: Astra Militarum",
+      "system": "Warhammer 40,000",
+      "type": "Boxed set",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Astra Militarum Dice Set",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Astra Militarum Datasheet Cards",
+      "system": "Warhammer 40,000",
+      "type": "Accessory",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Crusade: Nachmund Gauntlet",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "Crusade: Nachmund Gauntlet (Collector’s Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Rulebook",
+      "faction": "Various"
+    },
+    {
+      "name": "White Dwarf 509",
+      "system": "Other",
+      "type": "Magazine",
+      "faction": "Various"
+    },
+    {
+      "name": "Carcharadons: Outer Dark (Special Edition)",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Space Marines"
+    },
+    {
+      "name": "Double Eagle",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Interceptor City",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    },
+    {
+      "name": "Siege of Vraks",
+      "system": "Warhammer 40,000",
+      "type": "Fiction",
+      "faction": "Astra Militarum"
+    }
+  ]
+}
