@@ -29,7 +29,7 @@ python scripts/trace_offering.py "State Troops" --date 2025-01-12
 
 For each new week, add its date and URL to `source-list.txt` in the existing format and create a dated JSON file under `public/data/`. Record product names and category tags. Use `supplementalUrl` when another announcement helps identify an offering. Keep article prose, screenshots and publisher artwork out of the workspace. A preview with no offerings has an empty list.
 
-Run `python scripts/verify_data.py --write-manifest --write-exports` to update the index and both CSV exports. GitLab CI checks the exports against the weekly files before publishing.
+Run `python scripts/verify_data.py --write-manifest --write-exports` to update the index and both CSV exports. The Pages workflow checks the exports against the weekly files before publishing.
 
 ## Local preview
 
@@ -41,6 +41,6 @@ python -m http.server 4321 --bind 127.0.0.1 --directory public
 
 Open [the local explorer](http://127.0.0.1:4321/). No package installation or build step is required.
 
-## GitLab Pages
+## GitHub Pages
 
-Push these files to the default branch of a GitLab project with Pages and CI runners enabled. The supplied pipeline publishes the static files in `public/`. Relative asset and data paths support project subdirectories. Open **Deploy > Pages** for the deployed URL and select public Pages access for anonymous visitors if access control is enabled. [GitLab Pages CI reference](https://docs.gitlab.com/ci/yaml/#pages)
+Pushes to `main` validate the weekly data and publish `public/` to [GW Release Tracker](https://tpskowski.github.io/gw-releases/). The repository uses GitHub Actions as its Pages publishing source.
