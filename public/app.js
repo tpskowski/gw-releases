@@ -67,14 +67,15 @@ function drawMonthlyCharts(rows, start, end, field, series, hidden) {
     cursor.setUTCMonth(cursor.getUTCMonth() + 1)
   }
   for (const row of rows) {
-    const month = months.get(row.date.slice(0, 7))
     const label = row[field]
+    if (hidden.has(label)) continue
+    const month = months.get(row.date.slice(0, 7))
     month.counts.set(label, (month.counts.get(label) || 0) + 1)
     month.total++
   }
   const largest = Math.max(1, ...Array.from(months.values(), m => m.total))
   const years = new Map()
-  for (const [month, {counts}] of months) {
+  for (const [month, {counts, total}] of months) {
     const year = month.slice(0, 4)
     if (!years.has(year)) {
       const figure = element('figure')
@@ -83,20 +84,19 @@ function drawMonthlyCharts(rows, start, end, field, series, hidden) {
       container.append(figure)
       years.set(year, columns)
     }
+    const shortMonth = monthLabel.format(new Date(month + '-01'))
     const column = element('li')
     column.style.gridColumn = Number(month.slice(5))
     const plot = element('div', undefined, 'month-plot')
-    let visible = 0
     const segments = []
     for (const [label, color] of series) {
       const count = counts.get(label)
-      if (!count || hidden.has(label)) continue
-      visible += count
+      if (!count) continue
       const bar = element('span', undefined, 'month-bar')
       bar.style.height = (100 * count / largest) + '%'
       bar.style.backgroundColor = color
       bar.setAttribute('role', 'img')
-      bar.setAttribute('aria-label', label + ' · ' + count + (count === 1 ? ' offering' : ' offerings'))
+      bar.setAttribute('aria-label', shortMonth + ' ' + year + ' · ' + label + ' · ' + count + (count === 1 ? ' offering' : ' offerings'))
       bar.tabIndex = 0
       bar.onpointerenter = bar.onpointermove = event => showMonthTooltip(bar, event.clientX, event.clientY)
       bar.onpointerleave = bar.onblur = hideMonthTooltip
@@ -107,8 +107,8 @@ function drawMonthlyCharts(rows, start, end, field, series, hidden) {
       bar.onkeydown = event => { if (event.key === 'Escape') hideMonthTooltip() }
       segments.push(bar)
     }
-    plot.append(element('b', visible), ...segments.reverse())
-    column.append(plot, monthLabel.format(new Date(month + '-01')))
+    plot.append(element('b', total), ...segments.reverse())
+    column.append(plot, shortMonth)
     years.get(year).append(column)
   }
 }
@@ -202,7 +202,10 @@ async function start() {
       return choice
     })
     byId('series-legend').replaceChildren(...toggles)
-    byId('show-series').onclick = () => { excluded.clear(); render() }
+    byId('show-series').onclick = () => {
+      for (const [label] of series) excluded.delete(label)
+      render()
+    }
     byId('hide-series').onclick = () => { for (const [label] of series) excluded.add(label); render() }
     updateMonthly()
     if (!rows.length) byId('chart').textContent = from && through && from > through

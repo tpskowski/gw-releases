@@ -18,10 +18,13 @@
 </div>
 <section class="monthly chart-panel" aria-labelledby="monthly-title">
   <div class="chart-top"><h2 id="monthly-title">Releases by month</h2>
-    <label>Group months by<select id="monthly-group"><option value="type">Release type</option><option value="system">Game system</option><option value="faction">Faction</option><option value="date">Preview date</option><option value="orderStatus">Order status</option></select></label>
+    <label>Group months by<select id="monthly-group"><option value="system" selected>Game system</option><option value="type">Release type</option><option value="faction">Faction</option><option value="date">Preview date</option><option value="orderStatus">Order status</option></select></label>
   </div>
-  <label class="include-mto"><input id="monthly-include-mto" type="checkbox" checked>Include made to order</label>
-  <div class="series-actions"><button id="show-series" type="button">Show all</button><button id="hide-series" type="button">Hide all</button></div>
+  <div class="series-actions">
+    <label class="include-mto"><input id="monthly-include-mto" type="checkbox" checked>Include made to order</label>
+    <button id="show-series" type="button">Show all</button>
+    <button id="hide-series" type="button">Hide all</button>
+  </div>
   <div id="series-legend" role="group" aria-label="Visible monthly groups"></div>
   <div id="monthly-charts"></div>
   <div id="month-tooltip" role="tooltip" hidden></div>

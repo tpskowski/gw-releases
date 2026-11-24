@@ -29,7 +29,7 @@ python scripts/trace_offering.py "State Troops" --date 2025-01-12
 
 For each new week, add its date and URL to `source-list.txt` in the existing format and create a dated JSON file under `public/data/`. Record product names and category tags. Use `supplementalUrl` when another announcement helps identify an offering. Keep article prose, screenshots and publisher artwork out of the workspace. A preview with no offerings has an empty list.
 
-Run `python scripts/verify_data.py --write-manifest` to update the index. GitLab CI validates the weekly files before publishing.
+Run `python scripts/verify_data.py --write-manifest --write-exports` to update the index and both CSV exports. GitLab CI checks the exports against the weekly files before publishing.
 
 ## Local preview
 

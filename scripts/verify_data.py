@@ -1,7 +1,9 @@
 """Validate the weekly release lists and their source URLs without network access."""
 import argparse
+import csv
 import json
 import re
+from collections import Counter
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -22,13 +24,29 @@ def article_url(value):
     return url.scheme == "https" and url.hostname == "www.warhammer-community.com" and "/articles/" in url.path
 
 
-def verify(write_manifest=False):
+def check_export(filename, header, rows, write):
+    path = ROOT / filename
+    if write:
+        with path.open("w", encoding="utf-8-sig", newline="") as stream:
+            writer = csv.writer(stream)
+            writer.writerow(header)
+            writer.writerows(rows)
+    else:
+        with path.open(encoding="utf-8-sig", newline="") as stream:
+            reader = csv.reader(stream)
+            require(next(reader, None) == header and Counter(map(tuple, reader)) == Counter(rows),
+                    f"{filename} differs from weekly JSON; regenerate with --write-exports")
+
+
+def verify(write_manifest=False, write_exports=False):
     queue = re.findall(r"^(\d{4}-\d\d-\d\d)\s+\[(https://[^\]]+)\]",
                        (ROOT / "source-list.txt").read_text(encoding="utf-8-sig"), re.M)
     files = [day + ".json" for day, _ in queue]
     require(files and files == sorted(set(files)), "Duplicate or unordered preview dates")
     require({p.name for p in DATA.iterdir()} == {"index.json", *files}, "Files differ from source queue")
-    count = mto = 0
+    count = 0
+    made_to_order = []
+    other_system = []
     for day, url in queue:
         date.fromisoformat(day)
         week = json.loads((DATA / (day + ".json")).read_bytes())
@@ -49,19 +67,29 @@ def verify(write_manifest=False):
                 require(article_url(item["supplementalUrl"]), f"{day}: invalid supplemental URL")
             if "applicableSystems" in item:
                 systems = item["applicableSystems"]
-                require(isinstance(systems, list) and all(isinstance(s, str) and s.strip() for s in systems)
+                require(isinstance(systems, list) and all(isinstance(s, str) and s and s == s.strip() for s in systems)
                         and len(systems) == len(set(systems)) and item["system"] in systems, f"{day}: invalid systems")
             count += 1
-            mto += item.get("madeToOrder", False)
+            if item.get("madeToOrder"):
+                made_to_order.append((day, item["name"], item["system"], item["type"], item["faction"], url))
+            if item["system"] == "Other":
+                other_system.append((day, item["name"], item["type"], item["faction"],
+                                     " | ".join(item.get("applicableSystems", [])), url))
     manifest = DATA / "index.json"
     if write_manifest:
         manifest.write_text(json.dumps(files, indent=2) + "\n", encoding="utf-8")
     else:
         require(json.loads(manifest.read_bytes()) == files, "Index differs from source queue")
-    print(f"{len(files)} weekly lists, {count} offerings, {mto} confirmed Made to Order")
+    check_export("made-to-order.csv", ["Preview date", "Offering", "Game system", "Release type", "Faction", "Source URL"],
+                 made_to_order, write_exports)
+    check_export("other-game-system.csv", ["Preview date", "Offering", "Release type", "Faction", "Applicable systems", "Source URL"],
+                 other_system, write_exports)
+    print(f"{len(files)} weekly lists, {count} offerings, {len(made_to_order)} confirmed Made to Order")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--write-manifest", action="store_true")
-    verify(parser.parse_args().write_manifest)
+    parser.add_argument("--write-exports", action="store_true", help="regenerate both CSV exports from weekly JSON")
+    args = parser.parse_args()
+    verify(args.write_manifest, args.write_exports)
